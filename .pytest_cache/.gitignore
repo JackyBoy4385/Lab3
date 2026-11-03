@@ -1,2 +1,2 @@
 # Created by pytest automatically.
-*__pycache__/
+__pycache__/
