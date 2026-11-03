@@ -4,5 +4,8 @@
   "Test_bmi.py::test_bmi_under_weight",
   "test_Lab3.py::test_bubble_sort_ascending",
   "test_Lab3.py::test_bubble_sort_descending",
-  "test_Lab3.py::test_bubble_sort_invalid"
+  "test_Lab3.py::test_bubble_sort_empty",
+  "test_Lab3.py::test_bubble_sort_invalid",
+  "test_Lab3.py::test_bubble_sort_non_integer",
+  "test_Lab3.py::test_bubble_sort_ten_numbers"
 ]
